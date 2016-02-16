@@ -1,0 +1,109 @@
+Institutional Support for Students of Color on College Campuses 
+========================================================
+author: Chelsea Daniels
+date: 
+
+
+
+
+========================================================
+<style>
+
+
+/* heading for slides with two hashes ## */
+.reveal .slides section .slideContent h2 {
+   font-size: 36px;
+   font-weight: bold;
+   color: blue;
+}
+
+.reveal .slides section .slideContent h3 {
+   font-size: 30px;
+   font-weight: bold;
+   color: green;
+}
+
+/* ordered and unordered list styles */
+.reveal ul, 
+.reveal ol {
+    font-size: 22px;
+    list-style-type: square;
+}
+
+</style>
+
+
+![Alt text][image]
+[image]: http://41.media.tumblr.com/bf3cdf7d5c057f23bbdfbda066bd562c/tumblr_o21etp4Ebv1ry49rao1_1280.png
+
+![Alt text][image2]
+[image2]: https://41.media.tumblr.com/87aaf60ed1b0d8453e9735b29bafd538/tumblr_o21f15yR4p1ry49rao1_1280.png
+
+![Alt text][image3]
+[image3]:https://40.media.tumblr.com/497627c913558357f0f94a562a14ed3f/tumblr_o21f15yR4p1ry49rao2_1280.png
+
+![Alt text][image4]
+[image4]: https://40.media.tumblr.com/898b68ad4fad5a1edfefeefcb77185b3/tumblr_o21f15yR4p1ry49rao3_1280.png
+
+***
+**What do you want to know?**
+- What is the relationship between institutional support for minority students at higher ed institutions and the racial dynamic of the community?
+
+- How can institutions better serve their students of color at schools with different demographic characteristics in different geographic locations?
+
+- What works at some schools that could be implemented at other schools with similar demographics in similar geographic locations? 
+
+**Who Cares?**
+
+- Student activists
+- Higher-ed Institutions 
+
+DATA
+========================================================
+
+**Institutional Level**
+
+### Institutional Demographics
+- Student body
+- Geographic location
+- Year they began admitting students of color
+
+### Institutional Support
+- Diversity course offerings
+- Resource centers for POCs
+- Student-lead clubs/activites
+- Tolerance policy for discrimination / hate speech / racism 
+
+***
+
+### Institutional Level Incidents of Racism
+- Has there been anything in the news about racism on campus? 
+- How big a problem is racism on campus based on reported events?
+
+**Individual Level**
+- Social Media
+- YikYak (if possible) / Message Boards
+
+
+Approach / Skills
+========================================================
+
+**What appraoch will you take to this problem?**
+
+### Regression Analysis ###
+- Relating institutional practices / demographics to student sentiment
+- What factors maximize students' perceptions of their safety and the inclusiveness of the institution?
+
+**What skills will you need to develop?**
+- General R competency 
+- Web scraping
+- Sentiment analysis
+
+Success?? 
+======================================================
+
+**Success would be developing a useful model for increasing students' feelings of safety and inclusion.**
+
+**Could impact higher-ed diversity policy.**
+
+
